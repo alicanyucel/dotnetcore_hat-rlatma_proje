@@ -1,0 +1,2 @@
+# dotnetcore_hatırlatma_proje
+ core_hatırlatma_proje
